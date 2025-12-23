@@ -20,4 +20,29 @@ https://sayed-404.github.io/my-portfolio/
 
 ---
 
-## 🛠 T
+## 🛠 Tech Stack
+
+- **Frontend:** React, TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router
+- **State / Data:** TanStack React Query
+- **Deployment:** GitHub Pages
+- **PWA:** vite-plugin-pwa
+
+---
+
+## 📂 Project Structure
+
+```bash
+my-portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── vite.config.ts
+├── package.json
+└── README.md
